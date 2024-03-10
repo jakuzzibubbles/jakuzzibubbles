@@ -16,5 +16,10 @@ I'm open and passionate about driving digital transformation. I believe in harne
 the power of technology to drive positive change and innovation in every project I 
 undertake.
 
+## Hobbies 🌴
+
+In my free time, you find me enjoying a good cup of coffee ☕, having tea sessions 
+🫖, and travel to the beach 🏖️ as often as I can.
+
 Feel free to reach out to me if you're interested in collaboration or just want to 
 chat! Let's connect and get things done together! 🚀✨
