@@ -7,7 +7,7 @@ a sense of humor 😄, lots of energy ⚡, and a constant drive for self-improve
 
 I'm well-versed and talented in using tools to streamline project management. With my 
 experience, I ensure seamless processes and find innovative solutions that boost 
-efficiency and success. I'm also exploring DevOps engineering and cloud computing, 
+efficiency and success. I'm also exploring DevOps engineering and cloud computing☁️, 
 gradually incorporating these technologies to improve project workflows and scalability.
 
 ## Passion for Digital Transformation 💻
