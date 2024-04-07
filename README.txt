@@ -8,5 +8,3 @@
 ## Passionate about driving Digital Transformation 🕸️
 
 ### My hobbies in a 🌰: EAT - SLEEP - PLAY - REPEAT 💪
-
-![Hello Kitty](https://tenor.com/view/penguin-hello-hi-cute-gif-13905880940590312511)
