@@ -1,6 +1,6 @@
 # About Me 👋
 
-Hi there! I'm a skilled and dedicated project manager with a diverse professional background, 
+Hello! I'm a skilled and dedicated project manager with a diverse professional background, 
 a sense of humor 😄, lots of energy ⚡, and a constant drive for self-improvement 📈.
 
 ## Professional Background 🚀
