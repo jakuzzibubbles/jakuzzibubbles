@@ -7,4 +7,6 @@
 
 ## Passionate about driving Digital Transformation.🕸️ 
 
-### My hobbies in a 🌰: EAT - SLEEP - PLAY - REPEAT!!!
+### My hobbies in a 🌰: 
+
+  EAT - SLEEP - PLAY - REPEAT!!!
