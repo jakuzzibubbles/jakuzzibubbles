@@ -1,0 +1,50 @@
+.mdl-layout__header {
+    color: rgb(178, 46, 141);
+    background-color: black;
+}
+.demo-layout-transparent {
+    min-height: calc(100vh - 60px);
+   
+}
+
+footer.mdl-mini-footer {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
+
+.demo-layout-transparent {
+    background: rgba(0, 0, 0, 0.5);
+
+}
+
+.demo-layout-transparent .mdl-layout__header,
+.demo-layout-transparent .mdl-layout__drawer-button {
+    color: white;
+}
+
+
+.mdl-navigation__link {
+    color: rgb(178, 46, 141);
+    /* Pink color */
+}
+
+
+.mdl-layout__drawer {
+    background-color: rgba(0, 0, 0, 0.5);
+}
+
+.mdl-layout__drawer .mdl-navigation {
+    padding: 16px;
+}
+
+.mdl-navigation__link {
+    color: rgb(48, 165, 185);
+    display: block;
+    padding: 8px 0;
+    text-decoration: none;
+}
+
+.mdl-navigation__link:hover {
+    background-color: rgba(255, 255, 255, 0.1);
+}
