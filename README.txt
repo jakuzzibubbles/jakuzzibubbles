@@ -6,6 +6,6 @@
     to improve project workflows and scalability. 
     Passionate about driving Digital Transformation. 
 
-# My hobbies in a 🌰: 
+# My hobbies in a 🌰shell: 
 
   EAT - SLEEP - PLAY - REPEAT!!! 🐳
