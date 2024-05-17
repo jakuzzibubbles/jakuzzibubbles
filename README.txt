@@ -9,3 +9,5 @@
 # My hobbies in a 🌰shell: 
 
   EAT - SLEEP - PLAY - REPEAT!!! 🐳
+
+![Daftpunk-GIF](https://github.com/jakuzzibubbles/assets)
