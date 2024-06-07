@@ -3,12 +3,21 @@
     background-color: black;
 }
 .demo-layout-transparent {
+<<<<<<< HEAD
     min-height: calc(100vh - 60px);
 
 }
 
 footer.mdl-mini-footer {
     /* position: fixed; */
+=======
+    
+   
+}
+
+footer.mdl-mini-footer {
+  
+>>>>>>> 56b2368375a6939243f14bf20ca1b0036d357c20
     bottom: 0;
     width: 100%;
 }
