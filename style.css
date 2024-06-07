@@ -4,11 +4,11 @@
 }
 .demo-layout-transparent {
     min-height: calc(100vh - 60px);
-   
+
 }
 
 footer.mdl-mini-footer {
-    position: fixed;
+    /* position: fixed; */
     bottom: 0;
     width: 100%;
 }
