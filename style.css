@@ -48,3 +48,29 @@ footer.mdl-mini-footer {
 .mdl-navigation__link:hover {
     background-color: rgba(255, 255, 255, 0.1);
 }
+
+
+.mdl-navigation__link {
+    color: rgb(178, 46, 141);
+
+}
+
+
+.mdl-layout__drawer {
+    background-color: rgba(0, 0, 0, 0.5);
+}
+
+.mdl-layout__drawer .mdl-navigation {
+    padding: 16px;
+}
+
+.mdl-navigation__link {
+    color: rgb(48, 165, 185);
+    display: block;
+    padding: 8px 0;
+    text-decoration: none;
+}
+
+.mdl-navigation__link:hover {
+    background-color: rgba(255, 255, 255, 0.1);
+}
