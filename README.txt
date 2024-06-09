@@ -1,4 +1,4 @@
-# Hello World! 🐙
+# Hello World! 
 
     I'm a project manager with a diverse professional background, a sense of humor, 
     lots of energy, and a constant drive for self-improvement.
