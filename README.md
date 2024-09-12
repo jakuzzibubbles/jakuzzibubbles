@@ -12,4 +12,4 @@
 
 
 
-![Dein Badge](https://www.credly.com/badges/ac246bf2-635d-4e14-9e33-3f51baabed07/public_url)
+![Dein Badge](https://images.credly.com/size/220x220/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png)
