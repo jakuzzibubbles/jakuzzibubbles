@@ -6,6 +6,9 @@
     to improve project workflows and scalability.
     Passionate about driving Digital Transformation.
 
-<img src="https://images.credly.com/size/220x220/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" width="220" height="220" alt="AWS CP">
-<img src="https://images.credly.com/size/680x680/images/519a6dba-f145-4c1a-85a2-1d173d6898d9/image.png" width="220" height="220" alt="Architecting">
-<img src="https://images.credly.com/size/680x680/images/2784d0d8-327c-406f-971e-9f0e15097003/image.png" width="220" height="220" alt="AWS Quest">
+<p>
+  <img src="https://images.credly.com/size/220x220/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" width="220" height="220" alt="AWS CP" style="display: inline-block; margin-right: 10px;">
+  <img src="https://images.credly.com/size/680x680/images/519a6dba-f145-4c1a-85a2-1d173d6898d9/image.png" width="220" height="220" alt="Architecting" style="display: inline-block; margin-right: 10px;">
+  <img src="https://images.credly.com/size/680x680/images/2784d0d8-327c-406f-971e-9f0e15097003/image.png" width="220" height="220" alt="AWS Quest" style="display: inline-block;">
+</p>
+
