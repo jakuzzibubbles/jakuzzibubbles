@@ -6,10 +6,5 @@
     to improve project workflows and scalability.
     Passionate about driving Digital Transformation.
 
-# My hobbies in a 🌰shell:
-
-  EAT - SLEEP - PLAY - REPEAT!!! 🐳
-
-
 
 ![Dein Badge](https://images.credly.com/size/220x220/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png)
