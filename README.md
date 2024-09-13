@@ -5,6 +5,6 @@
   <img src="https://images.credly.com/size/680x680/images/b7695469-4083-4e65-b11b-ffc90f4492dd/image.png"
   width="120" height="120" alt="AWS Educate" style="display: inline-block;">
   <img src="https://images.credly.com/size/680x680/images/1fb00135-23d3-42e9-a745-c7627e8a84bf/image.png"
-  width="120" height="120" alt="AWS Educate" style="display: inline-block;">
+  width="120" height="120" alt="IBM SkillsBuild" style="display: inline-block;">
 </p>
 
