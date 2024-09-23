@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <p>
   <img src="https://images.credly.com/size/220x220/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" width="120" height="120" alt="AWS CP" style="display: inline-block; margin-right: 10px;">
   <img src="https://images.credly.com/size/680x680/images/519a6dba-f145-4c1a-85a2-1d173d6898d9/image.png" width="120" height="120" alt="Architecting" style="display: inline-block; margin-right: 10px;">
@@ -8,3 +9,13 @@
   width="100" height="100" alt="IBM SkillsBuild" style="display: inline-block; margin-right: 10px; vertical-align: top;">
 </p>
 
+=======
+# portfolio_jakuzzi263.com
+🏴‍☠️ creating my website 🫧
+
+# My Portfolio
+
+This is my personal portfolio website showcasing my projects and skills.
+
+!!!
+>>>>>>> portfolio_jakuzzi263/main
