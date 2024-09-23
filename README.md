@@ -9,3 +9,14 @@
     <img src="https://images.credly.com/size/680x680/images/16d5a420-770b-4699-97ec-46708e3680c5/Big_Data_Found_Level_1_-_CC_-_2019.png"
   width="120" height="120" alt="AWS Educate" style="display: inline-block; margin-right: 10px;">
 </p>
+
+=======
+# portfolio_jakuzzi263.com
+🏴‍☠️ creating my website 🫧
+
+# My Portfolio
+
+This is my personal portfolio website showcasing my projects and skills.
+
+!!!
+>>>>>>> portfolio_jakuzzi263/main
