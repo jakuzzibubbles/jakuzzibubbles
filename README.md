@@ -10,8 +10,6 @@
   width="120" height="120" alt="AWS Educate" style="display: inline-block; margin-right: 10px;">
 </p>
 
-# My Portfolio
 
-This is my personal portfolio website showcasing my projects and skills.
 
 
