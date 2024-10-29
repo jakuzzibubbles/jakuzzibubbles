@@ -2,7 +2,7 @@
 <img alt="Linh Nguyen" width="500" src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" />
 </p>
 
-<h2 align="center">How to reach me</h2> 
+<h2 align="center">Let's get social</h2> 
 <p align="center">
 <a href="https://www.linkedin.com/in/jakuzzi263/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
