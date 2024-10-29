@@ -56,7 +56,7 @@
 <a href="https://developer.mozilla.org/en-US/docs/Web/ubuntu" target="_blank" rel="noreferrer"> 
 <img src=https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white alt=JavaScript style="margin-bottom: 5px;" /> 
 </a> 
-<a href="https://developer.mozilla.org/en-US/docs/Web/visualstudiocode" target="_blank" rel="noreferrer"> 
+<a target="_blank" rel="noreferrer"> 
 <img src=https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white alt=JavaScript style="margin-bottom: 5px;" /> 
 </a> 
 <h3 align="center">Stats:</h3>
