@@ -9,8 +9,8 @@
 </a>
 
 <h3 align="center">Languages and Tools:</h3>
-<p align="center"> <a href="https://www.java.com" target="_blank" rel="noreferrer">
-<img src=https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=white alt=Java style="margin-bottom: 5px;" />
+<p align="center"> <a href="https://developer.mozilla.org/en-US/docs/Web/react" target="_blank" rel="noreferrer">
+<img src=https://img.shields.io/badge/Node.js-43853D.svg?style=for-the-badge&logo=node.js&logoColor=white alt=Java style="margin-bottom: 5px;" />
 </a> 
 <a href="https://www.sap.com/turkey/index.html" target="_blank" rel="noreferrer"> 
 <img src=https://img.shields.io/badge/SAP-0FAAFF.svg?&style=for-the-badge&logo=SAP&logoColor=white alt=SAP style="margin-bottom: 5px;" /> 
@@ -24,19 +24,23 @@
 <a href="https://developer.mozilla.org/en-US/docs/Web/react" target="_blank" rel="noreferrer"> 
 <img src=https://img.shields.io/badge/-ReactJS-%2361DAFB?style=for-the-badge&logo=react&logoColor=white alt=JavaScript style="margin-bottom: 5px;" /> 
 </a> 
-<a href="https://developer.mozilla.org/en-US/docs/Web/Tailwindcss" target="_blank" rel="noreferrer"> 
+<a href="https://developer.mozilla.org/en-US/docs/Web/tailwindcss" target="_blank" rel="noreferrer"> 
 <img src=https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white alt=JavaScript style="margin-bottom: 5px;" /> 
+</a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/express" target="_blank" rel="noreferrer"> 
+<img src=https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white alt=JavaScript style="margin-bottom: 5px;" /> 
+</a> 
+<a href="https://developer.mozilla.org/en-US/docs/Web/mongodb" target="_blank" rel="noreferrer"> 
+<img src=https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white alt=JavaScript style="margin-bottom: 5px;" /> 
+</a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/mysql" target="_blank" rel="noreferrer"> 
+<img src=https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white alt=JavaScript style="margin-bottom: 5px;" /> 
 </a> 
 </p>
 
 
-![Nodejs](https://img.shields.io/badge/Node.js-43853D.svg?style=for-the-badge&logo=node.js&logoColor=white)
 
-![◾️](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
 
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 
