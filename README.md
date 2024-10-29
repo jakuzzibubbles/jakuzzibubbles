@@ -64,6 +64,3 @@
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jakuzzibubbles&layout=compact&theme=dark" width="380">
 </p>
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=jakuzzibubbles&show_icons=true&theme=dark" width="380">
-</p>
