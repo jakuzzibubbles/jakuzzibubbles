@@ -36,21 +36,22 @@
 <a href="https://developer.mozilla.org/en-US/docs/Web/mysql" target="_blank" rel="noreferrer"> 
 <img src=https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white alt=JavaScript style="margin-bottom: 5px;" /> 
 </a> 
+<a href="https://developer.mozilla.org/en-US/docs/Web/vite" target="_blank" rel="noreferrer"> 
+<img src=https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white alt=JavaScript style="margin-bottom: 5px;" /> 
+</a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/postman" target="_blank" rel="noreferrer"> 
+<img src=https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white alt=JavaScript style="margin-bottom: 5px;" /> 
+</a> 
+<a href="https://developer.mozilla.org/en-US/docs/Web/shell" target="_blank" rel="noreferrer"> 
+<img src=https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white alt=JavaScript style="margin-bottom: 5px;" /> 
+</a> 
+<a href="https://developer.mozilla.org/en-US/docs/Web/git" target="_blank" rel="noreferrer"> 
+<img src=https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white alt=JavaScript style="margin-bottom: 5px;" /> 
+</a> 
+<a href="https://developer.mozilla.org/en-US/docs/Web/ubuntu" target="_blank" rel="noreferrer"> 
+<img src=https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white alt=JavaScript style="margin-bottom: 5px;" /> 
+</a> 
+<a href="https://developer.mozilla.org/en-US/docs/Web/visualstudiocode" target="_blank" rel="noreferrer"> 
+<img src=https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white alt=JavaScript style="margin-bottom: 5px;" /> 
+</a> 
 </p>
-
-
-
-
-
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
-![Shell Script](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
-
-![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
-
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-
-![VSCode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-
