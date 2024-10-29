@@ -14,6 +14,8 @@
 </a>
 
 <h3 align="center">Languages and Tools:</h3>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
+<img src=https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=for-the-badge&logo=JavaScript&logoColor=white alt=JavaScript style="margin-bottom: 5px;" /> 
 <p align="center"> <a href="https://developer.mozilla.org/en-US/docs/Web/react" target="_blank" rel="noreferrer">
 <img src=https://img.shields.io/badge/Node.js-43853D.svg?style=for-the-badge&logo=node.js&logoColor=white alt=Java style="margin-bottom: 5px;" />
 </a> 
