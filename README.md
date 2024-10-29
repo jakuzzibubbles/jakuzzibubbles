@@ -33,7 +33,7 @@
 <img src=https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white alt=JavaScript style="margin-bottom: 5px;" /> 
 </a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/express" target="_blank" rel="noreferrer"> 
-<img src=https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white alt=JavaScript style="margin-bottom: 5px;" /> 
+<img src=https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white alt=JavaScript style="margin-bottom: 5px;" />
 </a> 
 <a href="https://developer.mozilla.org/en-US/docs/Web/mongodb" target="_blank" rel="noreferrer"> 
 <img src=https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white alt=JavaScript style="margin-bottom: 5px;" /> 
