@@ -1,4 +1,4 @@
-<h1 align="center">Hello, hello, hello! </h1>
+<h1 align="center">Hello World🖖! </h1>
 <p align="center">
 <h3 align="center">I am a project manager and started coding because I want to explore DevOps practices and Cloud Computing. Currently working on projects with the M.E.R.N. stack. Still learning and improving.</h3>
 </p>
