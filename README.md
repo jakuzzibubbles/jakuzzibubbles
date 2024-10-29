@@ -1,12 +1,34 @@
+<p align="center">
+<img alt="Linh Nguyen" width="500" src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" />
+</p>
 
+<h2 align="center">How to reach me</h2> 
+<p align="center">
+<a href="[https://linkedin.com/in/yusuf-elmas-221598209](https://www.linkedin.com/in/jakuzzi263/)" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
 
+<h3 align="center">Languages and Tools:</h3>
+<p align="center"> <a href="https://www.java.com" target="_blank" rel="noreferrer">
+<img src=https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=white alt=Java style="margin-bottom: 5px;" />
+</a> 
+<a href="https://www.sap.com/turkey/index.html" target="_blank" rel="noreferrer"> 
+<img src=https://img.shields.io/badge/SAP-0FAAFF.svg?&style=for-the-badge&logo=SAP&logoColor=white alt=SAP style="margin-bottom: 5px;" /> 
+</a> 
+<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
+<img src=https://img.shields.io/badge/CSS3-264de4.svg?&style=for-the-badge&logo=CSS3&logoColor=white alt=CSS3 style="margin-bottom: 5px;" />
+</a>
+<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
+<img src=https://img.shields.io/badge/Html5-e34c26.svg?&style=for-the-badge&logo=Html5&logoColor=white alt=Html5 style="margin-bottom: 5px;" /> 
+</a> 
+<a href="https://developer.mozilla.org/en-US/docs/Web/react" target="_blank" rel="noreferrer"> 
+<img src=https://img.shields.io/badge/-ReactJS-%2361DAFB?style=for-the-badge&logo=react&logoColor=white alt=JavaScript style="margin-bottom: 5px;" /> 
+</a> 
+<a href="https://developer.mozilla.org/en-US/docs/Web/Tailwindcss" target="_blank" rel="noreferrer"> 
+<img src=https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white alt=JavaScript style="margin-bottom: 5px;" /> 
+</a> 
+</p>
 
-
-
-
-![Tailwind](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-
-![ReactJS](https://img.shields.io/badge/-ReactJS-%2361DAFB?style=for-the-badge&logo=react&logoColor=white)
 
 ![Nodejs](https://img.shields.io/badge/Node.js-43853D.svg?style=for-the-badge&logo=node.js&logoColor=white)
 
@@ -28,35 +50,3 @@
 
 ![VSCode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 
-![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
-
-![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
-
-
-<p align="center">
-<img alt="Linh Nguyen" width="500" src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" />
-</p>
-
-<h2 align="center">How to reach me</h2> 
-<p align="center">
-<a href="https://linkedin.com/in/yusuf-elmas-221598209" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-
-<h3 align="center">Languages and Tools:</h3>
-<p align="center"> <a href="https://www.java.com" target="_blank" rel="noreferrer">
-<img src=https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=white alt=Java style="margin-bottom: 5px;" />
-</a> 
-<a href="https://www.sap.com/turkey/index.html" target="_blank" rel="noreferrer"> 
-<img src=https://img.shields.io/badge/SAP-0FAAFF.svg?&style=for-the-badge&logo=SAP&logoColor=white alt=SAP style="margin-bottom: 5px;" /> 
-</a> 
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
-<img src=https://img.shields.io/badge/CSS3-264de4.svg?&style=for-the-badge&logo=CSS3&logoColor=white alt=CSS3 style="margin-bottom: 5px;" />
-</a>
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
-<img src=https://img.shields.io/badge/Html5-e34c26.svg?&style=for-the-badge&logo=Html5&logoColor=white alt=Html5 style="margin-bottom: 5px;" /> 
-</a> 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-<img src=https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=for-the-badge&logo=JavaScript&logoColor=white alt=JavaScript style="margin-bottom: 5px;" /> 
-</a> 
-</p>
