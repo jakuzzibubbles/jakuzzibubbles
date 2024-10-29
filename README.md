@@ -59,6 +59,7 @@
 <a href="https://developer.mozilla.org/en-US/docs/Web/visualstudiocode" target="_blank" rel="noreferrer"> 
 <img src=https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white alt=JavaScript style="margin-bottom: 5px;" /> 
 </a> 
+<h4 align="center">Stats:</h4>
 </p>
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jakuzzibubbles&layout=compact&theme=dark" width="380">
