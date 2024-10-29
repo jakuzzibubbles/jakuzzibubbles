@@ -53,7 +53,7 @@
 <a href="https://developer.mozilla.org/en-US/docs/Web/git" target="_blank" rel="noreferrer"> 
 <img src=https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white alt=JavaScript style="margin-bottom: 5px;" /> 
 </a> 
-<a href="https://developer.mozilla.org/en-US/docs/Web/ubuntu" target="_blank" rel="noreferrer"> 
+<a target="_blank" rel="noreferrer"> 
 <img src=https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white alt=JavaScript style="margin-bottom: 5px;" /> 
 </a> 
 <a target="_blank" rel="noreferrer"> 
