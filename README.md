@@ -1,6 +1,6 @@
 <h1 align="center">Hello World🖖! </h1>
 <p align="center">
-<h3 align="center">I am a project manager, started coding because I want to explore DevOps practices and Cloud Computing. Currently working on projects with the MERN stack. Still learning and improving.</h3>
+<h3 align="center">I am a project manager, started coding because I want to explore DevOps practices and Cloud Computing. Currently working on projects with the MERN stack. Always learning and improving.</h3>
 </p>
 
 <p align="center">
