@@ -1,18 +1,11 @@
-<h1 align="center">Hello World🖖! </h1>
+<h1 align="center">Hi🖖! </h1>
 <p align="center">
-<h3 align="center">I am a project manager, started coding because I want to explore DevOps practices and Cloud Computing. Currently working on projects with the MERN stack. Always learning and improving.</h3>
+I am a project manager, started coding because I want to explore DevOps practices and Cloud Computing. Currently working on projects with the MERN stack. Always learning and improving.
 </p>
 
 <p align="center">
 <img alt="Linh Nguyen" width="500" src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" />
 </p>
-
-<h2 align="center">Let's get social</h2> 
-<p align="center">
-<a href="https://www.linkedin.com/in/jakuzzi263/" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-
 <h3 align="center">Languages and Tools:</h3>
 <p align="center"> 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
@@ -58,9 +51,11 @@
 </a> 
 <a href="https://developer.mozilla.org/en-US/docs/Web/visualstudiocode" target="_blank" rel="noreferrer"> 
 <img src=https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white alt=JavaScript style="margin-bottom: 5px;" /> 
-</a> 
-<h3 align="center">Stats:</h3>
-</p>
+</a>
+
+<h3 align="center">Let's get social</h3> 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jakuzzibubbles&layout=compact&theme=dark" width="380">
-</p>
+<a href="https://www.linkedin.com/in/jakuzzi263/" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
+
