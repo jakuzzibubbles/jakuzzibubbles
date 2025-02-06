@@ -3,9 +3,6 @@
 I am a project manager, started coding because I want to explore DevOps practices and Cloud Computing. Currently working on projects with the MERN stack. Always learning and improving.
 </p>
 
-<p align="center">
-<img alt="Linh Nguyen" width="500" src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" />
-</p>
 
 <h3 align="center">Let's connect</h3> 
 <p align="center">
